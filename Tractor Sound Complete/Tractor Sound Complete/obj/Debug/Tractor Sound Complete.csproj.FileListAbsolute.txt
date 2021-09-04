@@ -1,0 +1,7 @@
+C:\Users\missc\source\repos\Tractor Sound Complete\Tractor Sound Complete\bin\Debug\tractorEngine.wav
+C:\Users\missc\source\repos\Tractor Sound Complete\Tractor Sound Complete\bin\Debug\manifest.json
+C:\Users\missc\source\repos\Tractor Sound Complete\Tractor Sound Complete\bin\Debug\Tractor Sound Complete.dll
+C:\Users\missc\source\repos\Tractor Sound Complete\Tractor Sound Complete\bin\Debug\Tractor Sound Complete.pdb
+C:\Users\missc\source\repos\Tractor Sound Complete\Tractor Sound Complete\obj\Debug\Tractor Sound Complete.csproj.CoreCompileInputs.cache
+C:\Users\missc\source\repos\Tractor Sound Complete\Tractor Sound Complete\obj\Debug\Tractor Sound Complete.dll
+C:\Users\missc\source\repos\Tractor Sound Complete\Tractor Sound Complete\obj\Debug\Tractor Sound Complete.pdb
